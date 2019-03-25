@@ -78,6 +78,7 @@ Note:
 - Descripción de medidas técnicas y organizativas de seguridad
 [Plantilla Derecho Rectificación](https://ayudaleyprotecciondatos.es/wp-content/uploads/2018/06/derechos-arco-rectificacion.pdf) 
 
+
 ## Anáslisis de riesgos
 - Valorar riesgos
 - Implantar medidas de seguridad
