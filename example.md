@@ -1,4 +1,4 @@
-![ ](./img/candado.png  "Pi-Hole logo")
+![ ](./img/candadoP.png  "Pi-Hole logo")
 # Protección de datos
 Guía básica para centros educativos
 
