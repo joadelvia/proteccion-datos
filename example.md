@@ -1,4 +1,4 @@
-![ ](./img/candadoP.png  "Pi-Hole logo")
+![ ](./img/candadoP.png  "Candado privacidad")
 ## Protección de datos
 Guía básica para centros educativos
 
@@ -13,6 +13,7 @@ Guía básica para centros educativos
 Note: 
 
 
+
 	
 ## ¿A quién va dirigida?
 - Estructura organizativa del centro
@@ -20,18 +21,28 @@ Note:
 - AMPA
 
 
-![Raspberry Pi 3](./img/RaspberryPi3.jpg  "Raspberry Pi 3")
-## [¿Qué es?](https://es.wikipedia.org/wiki/Raspberry_Pi)  
+
+## ¿Por qué los centros educativos deben cumplir la LOPD?
+- Divulgación de fotos de actividades: Redes sociales y webs
+- Aplicaciones de gestión académica: Datos personales alumnado
+- Convivencia de adultos con menores
+- Gran volumen de información personal estudiantes, padres, personal del centro, ...  
 
 
-![Raspbian](./img/raspbian.png  "Raspbian")
-## [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) 
-Sistema operativo
+## Tipos de datos personales en los centros educativos
+- Expediente académico
+- Fichas personales profesorado y PAS
+- Servicios adicionales: comedor, transporte, ...
+- Proveedores
+- Admisión de alumnos
+- Asesoramiento psicopedagógico
+- Otros ficheros: videovigilancia, controles de acceso, ...
 
 
-![ ](./img/ConsumoRaspberry.png  "Consumo Raspberry")
-## Consumo
 
+
+## Requisitos para cumplir la LOPD en los centros educativos
+![ ](./img/cumplir-lopd-colegios.png  "Cumplir LOPD Centros educativos")
 
 ## [Precio](https://www.kubii.es/40-raspberry-pi-3-2-b) 
 
