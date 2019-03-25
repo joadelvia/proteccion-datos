@@ -126,11 +126,14 @@ En caso de *violación de seguridad*:
 - ¿Puede el centro solicitar información sobre asistencia sanitaria prestada?
 - ¿Se pueden facilitar datos de los alumnos y sus padres al AMPA?
 
+
+
 ## Documentos para centros educativos
 - [Modelo Cláusula Informativa](https://ayudaleyprotecciondatos.es/wp-content/uploads/2017/12/consentimiento-alumnos-salud-cesion-terceros.pdf) 
 - [Plantilla Derecho Acceso](https://ayudaleyprotecciondatos.es/wp-content/uploads/2018/06/derechos-arco-acceso.pdf) 
 - [Modelo Derecho Cancelación](https://ayudaleyprotecciondatos.es/wp-content/uploads/2018/06/derechos-arco-cancelacion-supresion.pdf) 
 - [Ejemplo Documento de Seguridad](https://ayudaleyprotecciondatos.es/wp-content/uploads/2017/12/documento-seguridad.pdf) 
+
 
 ## Otros recursos para centros educativos
 - [Guía básica protección de datos APDCAT](http://apdcat.gencat.cat/web/.content/03-documentacio/publicacions/documents/2891.pdf)
