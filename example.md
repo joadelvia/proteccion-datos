@@ -44,94 +44,98 @@ Note:
 ## Requisitos para cumplir la LOPD en los centros educativos
 ![ ](./img/cumplir-lopd-colegios.png  "Cumplir LOPD Centros educativos")
 
-## [Precio](https://www.kubii.es/40-raspberry-pi-3-2-b) 
+
+##  Responsables de los ficheros
+- Adoptar medidas de seguridad
+- Inscribir los ficheros en AEPD
+- Elaborar Documento de seguridad
+- Informar y formar al personal del centro
 
 
-## ¿Para qué sirve?
-- Domótica
-- Videojuegos
-- Servidores caseros
-- Control de redes
-- ....
-
-
-## Otras opciones
-- [Contenedor Docker](https://hub.docker.com/r/pihole/pihole/)
-- Máquina virtual
-	- [Descarga](https://www.osboxes.org/raspbian/) 
-	- [DIY](https://www.luisllamas.es/raspberry-pi-virtualbox/)
-- Equipo antiguo
-- [Alternativas a Raspberry Pi](https://tecnobits.xyz/mejores-alternativas-a-la-raspberry-pi-en-2018/) 
+## Publicación de fotografías
+- Solicitar consentimiento
+- Aprobar medidas seguridad
+- Ojo con las subidas automáticas a la nube
 
 
 
-![ ](./img/pi-hole-logo.png  "Pi-Hole logo")
-# [Pi-Hole](https://pi-hole.net/) 
+## Obligaciones según el RGPD
+- Llevar un *Registro de actividades de tratamiento*
+- Realizar un *análisis de riesgos*.
+- Realizar una *Evaluación de impacto* en Protección de Datos.
+- Nombrar un *Delegado de Protección de Datos*
+- Obtener los *consentimientos*
+- *Notificar las violaciones de seguridad*
 
 
-## ¿Qué es Pi-Hole?
-- dnsmasq: Un servidor ligero de DNS y DHCP.
-- curl: Una herramienta de linea de comando para la gestión de peticiones HTTP.
-- lighttpd: Un servidor web focalizado en el desempeño y la seguridad.
-- php: Lenguaje de scripting de uso general para la web.
-- AdminLTE Dashboard: Panel de control basado en Bootstrap 3.x
+## Registro de actividades de tratamiento
+### Información:
+- Identificación del delegado de protección de datos
+- Fines del tratamiento
+- Descripción de las categorías de interesados y destinatarios
+- Transferencias de datos a terceros
+- Plazos previstos de supresión de datos
+- Descripción de medidas técnicas y organizativas de seguridad
+[Plantilla Derecho Rectificación](https://ayudaleyprotecciondatos.es/wp-content/uploads/2018/06/derechos-arco-rectificacion.pdf) 
+
+## Anáslisis de riesgos
+- Valorar riesgos
+- Implantar medidas de seguridad
+- Garantizar el número de destinatarios de la información
 
 
-## Funcionamiento DNS
-![Funcionamiento DNS](./img/EsquemaBasicoDNS.jpg  "Funcionamiento DNS")
+## Evaluación de Impacto
+Obligatorio en los siguientes casos:
+- Tratamiento a gran escala de *datos sensibles*
+- Observación sistemática zona pública (videovigilancia)
+- *Elaboración de perfiles* que produzcan efectos jurídicos
 
 
-## DNS público
-![DNS Público](./img/dnsPublic0.png  "DNS Público")
-Note:
-Empresa | IP Servidor DNS primario | IP Servidor DNS secundario
--- | -- | --
-Google |	8.8.8.8 |	8.8.4.4
-OpenDNS |	208.67.222.222|	208.67.220.220
-Norton ConnectSafe|	198.153.192.40|	198.153.194.40
-Comodo Secure DNS|	8.26.56.26	|156.154.70.22
-OpenNIC	|202.83.95.227|	216.87.84.211
-Level 3 Communications|	4.2.2.1|	4.2.2.2
-Dyn Internet Guide	|216.146.35.35	|216.146.36.36
-Verisign	|64.6.64.6	|64.6.65.6
-Telefónica|	80.58.61.250|	80.58.61.254
-Jazztel	|87.216.1.65	|87.216.1.66
-Orange	|62.36.225.150|	62.37.228.20
+## Delegado de Protección de datos
+- Obligación de nombrarlo
+- Supervisa el cumplimiento de la normativa
+- Sirve de enlace con la Autoridad de Protección de Datos
+
+
+## Notificación de brechas de seguridad
+En caso de *violación de seguridad*:
+- Notificación a la Agencia Española de Protección de Datos
+- Comunicar a los interesados
 
 
 
-# Instalación
+## Preguntas frecuentes recogida datos
+- ¿Puedo recoger datos de salud de los alumnos?
+- ¿Es posible recoger datos biométricos?
+- ¿Es posible recoger datos sobre la situación familiar de los padres de los alumnos?
+- ¿Pueden recogerse datos para fines distintos de los propios de la función educativa?
+- ¿Se pueden instalar cámaras de videovigilancia en los patios de recreo y comedores?
 
 
-## Crear máquina virtual
-### Configuración básica
+## Preguntas frecuentes publicación datos
+- ¿Se pueden publicar listas de admitidos?
+- ¿Se pueden publicar beneficiarios de becas y ayudas?
+- ¿Se pueden hacer públicas las calificaciones?
+- ¿Pueden los padres solicitar calificaciones de hijos mayores de edad?
 
 
-## Instalar Pi-Hole
-	curl -sSL https://install.pi-hole.net | bash
-	
+## Preguntas frecuentes intercambio de información
+- ¿Se pueden facilitar datos de alumnos a otros centros educativos?
+- ¿Se pueden comunicar datos a las Fuerzas y Cuerpos de seguridad?
+- ¿Se pueden comunicar datos a los centros sanitarios?
+- ¿Puede el centro solicitar información sobre asistencia sanitaria prestada?
+- ¿Se pueden facilitar datos de los alumnos y sus padres al AMPA?
 
-## Cambiar contraseña de admin
-	pihole -a -p
-	
-	
-## Reconfiguración
-	pihole -r
+## Documentos para centros educativos
+- [Modelo Cláusula Informativa](https://ayudaleyprotecciondatos.es/wp-content/uploads/2017/12/consentimiento-alumnos-salud-cesion-terceros.pdf) 
+- [Plantilla Derecho Acceso](https://ayudaleyprotecciondatos.es/wp-content/uploads/2018/06/derechos-arco-acceso.pdf) 
+- [Modelo Derecho Cancelación](https://ayudaleyprotecciondatos.es/wp-content/uploads/2018/06/derechos-arco-cancelacion-supresion.pdf) 
+- [Ejemplo Documento de Seguridad](https://ayudaleyprotecciondatos.es/wp-content/uploads/2017/12/documento-seguridad.pdf) 
 
+## Otros recursos para centros educativos
+- [Guía básica protección de datos APDCAT](http://apdcat.gencat.cat/web/.content/03-documentacio/publicacions/documents/2891.pdf)
+- [Guía para centros educativos AEPD](http://apdcat.gencat.cat/web/.content/03-documentacio/publicacions/documents/2891.pdf) 
 
-## Acceder al panel de administración
-	http://ip/admin
-![Dashboard](./img/dashboard.png) 
-
-
-## Configuración de los clientes
-
-
-## Actualización
-	pihole -up
-
-
-## [VPN](https://hefistion.github.io/Pi-Hole-Bloquea-la-publicidad-desde-raspberry-pi/) 
 
 
 
