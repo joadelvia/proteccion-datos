@@ -120,7 +120,7 @@ En caso de *violación de seguridad*:
 - ¿Pueden los padres solicitar calificaciones de hijos mayores de edad?
 
 
-## Preguntas frecuentes intercambio de información
+### Preguntas frecuentes intercambio de información
 - ¿Se pueden facilitar datos de alumnos a otros centros educativos?
 - ¿Se pueden comunicar datos a las Fuerzas y Cuerpos de seguridad?
 - ¿Se pueden comunicar datos a los centros sanitarios?
