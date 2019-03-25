@@ -1,23 +1,23 @@
-![ ](./img/pi-hole-logo.png  "Pi-Hole logo")
-# Pi-Hole
-Adiós a la publicidad
+![ ](./img/candado.png  "Pi-Hole logo")
+# Protección de datos
+Guía básica para centros educativos
 
 
 # Contenidos
-- Raspberry Pi
-- Otras opciones
-- Pi-Hole
-- VPN
+- ¿ A quién va dirigida?
+- ¿Por qué los centros educativos deben cumplir la LOPD?
+- Requisitos para cumplir la LOPD en los centros educativos
+- Obligaciones según el RGPD
+- Preguntas frecuentes
+- Otros recursos para centros educativos
 Note: 
-- Raspberry Pi: Qué es, Sistema operativo, consumo, donde comprarlo, para qué sirve
-- Otras opciones: 
-- Pi-Hole: Funcionamiento, dns, instalación, personalización, actualización, configuración clientes
-- VPN
-
 
 
 	
-![Raspberry Pi Logo](./img/RaspberryPi.png  "Raspberry Pi Logo")
+## ¿A quién va dirigida?
+- Estructura organizativa del centro
+- Centros educativos
+- AMPA
 
 
 ![Raspberry Pi 3](./img/RaspberryPi3.jpg  "Raspberry Pi 3")
